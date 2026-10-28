@@ -396,6 +396,7 @@ These websites may be useful to test fingerprinting techniques against a web scr
 <tr><td><a href="https://browserleaks.com/">https://browserleaks.com/</a></td><td>Doesn't need introduction 😉</td></tr>
 <tr><td><a href="https://f.vision/">https://f.vision/</a></td><td>Good quality test page from some 🇷🇺 guys</td></tr>
 <tr><td><a href="https://www.ipqualityscore.com/ip-reputation-check">https://www.ipqualityscore.com/ip-reputation-check</a></td><td>Commercial service with free reputation check against popular blacklists</td></tr>
+<tr><td><a href="https://demo.shieldlabs.ai/anonymity-checker">https://demo.shieldlabs.ai/anonymity-checker</a></td><td>Free check of device identifiers, risk score, VPN, proxy, Tor and browser automation signals</td></tr>
 <tr><td><a href="https://antcpt.com/eng/information/demo-form/recaptcha-3-test-score.html">https://antcpt.com/eng/information/demo-form/recaptcha-3-test-score.html</a></td><td>ReCaptcha score as well as some interesting notes on how to optimize captcha solving costs</td></tr>
 <tr><td><a href="https://ja3er.com/">https://ja3er.com/</a></td><td>💀 dead since ~2022 — SSL/TLS fingerprint, kept here for historical reference</td></tr>
 <tr><td><a href="https://tls.peet.ws/">https://tls.peet.ws/</a></td><td>TLS fingerprint (JA3, JA4, HTTP2 frames, Akamai fingerprint) — pretty much replacement for ja3er</td></tr>
